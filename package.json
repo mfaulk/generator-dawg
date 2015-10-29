@@ -1,0 +1,20 @@
+{
+  "name": "generator-dawg",
+  "version": "1.0.0",
+  "description": "Yo dawg, we heard you like generators...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Matt Faulkner",
+  "files": [
+    "generators/app"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.21.1"
+  }
+}
